@@ -1,4 +1,7 @@
-#new project
+# GIt-demo
 
-This project is another sample
-HI SAVIO 
+Hello everyone , this is sample git repository
+hope all are doing well
+
+
+#Firsst commit 
